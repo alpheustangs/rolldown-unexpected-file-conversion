@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "scripts": {
+        "build": "rolldown --config=rolldown.config.ts"
+    },
+    "dependencies": {
+        "rolldown": "1.0.0-beta.19"
+    }
+}
